@@ -45,10 +45,6 @@ namespace G_NET_29_OOP_4
     #endregion
 
     #region Part 02 :
-
-    #endregion
-
-
     class Program
     {
         static void Main()
@@ -81,4 +77,6 @@ namespace G_NET_29_OOP_4
             myCinema.CloseCinema();
         }
     }
+    #endregion
+
 }
