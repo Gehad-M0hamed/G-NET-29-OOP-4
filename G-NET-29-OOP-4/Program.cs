@@ -1,4 +1,6 @@
-﻿using System.Numerics;
+﻿using System;
+using System.Numerics;
+using System.Text;
 using System.Threading.Tasks;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
@@ -27,6 +29,18 @@ namespace G_NET_29_OOP_4
     //    within same class.
     //    must diff params.
     //    Performing same tasks with different data.
+    #endregion
+
+    #region Q3:
+   //** The runtime checks the actual object in memory to decide which method to call 
+   //     this is what makes polymorphism work.
+   // * virtual:
+
+   // Written at Base Class.
+   //    it say to compiler decide later any version will use.
+   // * override:
+   //  Written at Derived Class.
+   //    Alternate behavior for method
 
     #endregion
 
