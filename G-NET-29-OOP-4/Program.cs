@@ -1,4 +1,6 @@
 ﻿using System.Numerics;
+using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace G_NET_29_OOP_4
 {
@@ -14,6 +16,18 @@ namespace G_NET_29_OOP_4
     //    Virtual methods
     //    Method overriding
     //    Interface calls
+    #endregion
+
+    #region Q2 :
+    //* Method Overriding(Dynamic):
+    //    Inheritance between child and parent.
+    //    must same params.
+    //    Change "behavior" of a method inherited from parent.
+    //* Method Overloading(Static):
+    //    within same class.
+    //    must diff params.
+    //    Performing same tasks with different data.
+
     #endregion
 
 
